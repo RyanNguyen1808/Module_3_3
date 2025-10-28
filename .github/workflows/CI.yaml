@@ -8,7 +8,7 @@ on:
 env:
   IMAGE_NAME: ryannguyen2708/flask-app
 
-job:
+jobs:
   Build-Push:
     runs-on: ubuntu-latest
 
